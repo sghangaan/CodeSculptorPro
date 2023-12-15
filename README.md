@@ -105,7 +105,7 @@ These phases collectively form the compilation process, transforming human-reada
 # System Flowchart
 
 <p align="center">
-  <img src="https://github.com/SG-Hangaan/CodeSculptorPro/assets/127215110/3bb272c2-ec04-48bf-a4fb-40914088b863"/>
+  <img src="https://github.com/SG-Hangaan/CodeSculptorPro/assets/127215110/6ed533a9-b0f4-40b6-998e-79930004551f"/>
 </p>
 
 # Developers 
