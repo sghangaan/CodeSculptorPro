@@ -6,7 +6,9 @@ CodeSculptorPro operates as a specialized single-line code analyzer, leveraging 
 
 
 # Preview 
-
+<p align="center">
+  <img src="https://github.com/SG-Hangaan/CodeSculptorPro/assets/127215110/72a11b17-8dd3-4c9b-8f0d-7d99392e5554"/>
+</p>
 
 # System Setup
 
@@ -99,8 +101,40 @@ These phases collectively form the compilation process, transforming human-reada
 • Last phase of the compiler  <br>
 • Finally converts the optimized code into the target program  <br>
 
-
 # System Flowchart
+
+<p align="center">
+  <img src="https://github.com/SG-Hangaan/CodeSculptorPro/assets/127215110/3bb272c2-ec04-48bf-a4fb-40914088b863"/>
+</p>
+
+# Developers 
+
+Bachelor of Science in Computer Science <br>
+New Era University <br>
+College of Computer Studies <br>
+
+Rm. 247-B, High School Annex B, New Era University <br>
+Tel. No.: (+632) 981-4221 loc 3825 <br>
+
+In partial fulfillment of the requirement for the subject <br>
+Theory of Programming Languages <br>
+
+--------------------------------------------------------------------------- 
+Presented by:
+* Sharon Grace T. Hangaan (sharonygracehangaan@gmail.com) <br>
+* John Michael C. Ramos (ramosjohnmichael61@gmail.com) <br>
+---------------------------------------------------------------------------
+
+Presented to: <br>
+Prof. Irysh Paulo R. Tipay, MSCS <br>
+Theory of Programming Languages <br>
+
+Academic Year 2023-2024 <br>
+
+
+
+
+
 
 
 
