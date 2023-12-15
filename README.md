@@ -7,8 +7,9 @@ CodeSculptorPro operates as a specialized single-line code analyzer, leveraging 
 
 # Preview 
 <p align="center">
-  <img src="https://github.com/SG-Hangaan/CodeSculptorPro/assets/127215110/72a11b17-8dd3-4c9b-8f0d-7d99392e5554"/>
+  <img src="https://github.com/SG-Hangaan/CodeSculptorPro/assets/127215110/30b76fb8-32e3-4dce-a3e5-b6dec8a08d47"/>
 </p>
+
 
 # System Setup
 
@@ -109,9 +110,9 @@ These phases collectively form the compilation process, transforming human-reada
 
 # Developers 
 
-Bachelor of Science in Computer Science <br>
 New Era University <br>
 College of Computer Studies <br>
+Bachelor of Science in Computer Science <br>
 
 Rm. 247-B, High School Annex B, New Era University <br>
 Tel. No.: (+632) 981-4221 loc 3825 <br>
