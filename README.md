@@ -5,6 +5,9 @@
 CodeSculptorPro operates as a specialized single-line code analyzer, leveraging the initial three stages of the compilation process. This software focuses exclusively on scrutinizing declarations and assignment operations, offering a detailed examination of various recognized data types, including String, int, char, boolean, double, and float.
 
 
+# Preview 
+
+
 # System Setup
 
 1. **Text Editor:**
@@ -97,7 +100,7 @@ These phases collectively form the compilation process, transforming human-reada
 • Finally converts the optimized code into the target program  <br>
 
 
-
+# System Flowchart
 
 
 
