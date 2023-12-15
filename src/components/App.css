@@ -1,0 +1,50 @@
+:root {
+ 
+    --body-bg: #000000;
+    --box-bg: #000000;
+    --nav-height: 0px;
+    --space-top: 0px;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 16px;
+    height: 100%;
+}
+
+body {
+    background-color: var(--body-bg);
+    color: var(--text-color);
+    padding-top: var(--nav-height);
+    min-height: 100%;
+    
+    /* Set background image */
+  background-image: url(/public/background_App.png);
+  background-size: cover; /* Adjust as needed, e.g., cover, contain, etc. */
+  background-repeat: no-repeat;
+  background-attachment: fixed; /* Fixed background */
+
+  /* Add more styles as needed */
+}
+
+
+/* ---- Custom Scrollbar-- */
+
+::-webkit-scrollbar{
+    width: 9px;
+}
+::-webkit-scrollbar-track{
+    background:#000000;
+}
+::-webkit-scrollbar-thumb{
+    background: linear-gradient(#240851, #e29a9a);
+    border-radius: 26px;
+    height: 12%;
+
+}
+
